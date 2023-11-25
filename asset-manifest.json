@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/COURSES/static/css/main.cfc5278f.css",
+    "main.js": "/COURSES/static/js/main.be02cf0f.js",
+    "index.html": "/COURSES/index.html",
+    "main.cfc5278f.css.map": "/COURSES/static/css/main.cfc5278f.css.map",
+    "main.be02cf0f.js.map": "/COURSES/static/js/main.be02cf0f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cfc5278f.css",
+    "static/js/main.be02cf0f.js"
+  ]
+}
